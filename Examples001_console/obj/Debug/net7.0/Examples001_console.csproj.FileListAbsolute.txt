@@ -1,0 +1,14 @@
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\1 лекция\Examples\Examples001_console\bin\Debug\net7.0\Examples001_console.exe
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\1 лекция\Examples\Examples001_console\bin\Debug\net7.0\Examples001_console.deps.json
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\1 лекция\Examples\Examples001_console\bin\Debug\net7.0\Examples001_console.runtimeconfig.json
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\1 лекция\Examples\Examples001_console\bin\Debug\net7.0\Examples001_console.dll
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\1 лекция\Examples\Examples001_console\bin\Debug\net7.0\Examples001_console.pdb
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\1 лекция\Examples\Examples001_console\obj\Debug\net7.0\Examples001_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\1 лекция\Examples\Examples001_console\obj\Debug\net7.0\Examples001_console.AssemblyInfoInputs.cache
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\1 лекция\Examples\Examples001_console\obj\Debug\net7.0\Examples001_console.AssemblyInfo.cs
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\1 лекция\Examples\Examples001_console\obj\Debug\net7.0\Examples001_console.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\1 лекция\Examples\Examples001_console\obj\Debug\net7.0\Examples001_console.dll
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\1 лекция\Examples\Examples001_console\obj\Debug\net7.0\refint\Examples001_console.dll
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\1 лекция\Examples\Examples001_console\obj\Debug\net7.0\Examples001_console.pdb
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\1 лекция\Examples\Examples001_console\obj\Debug\net7.0\Examples001_console.genruntimeconfig.cache
+C:\Users\user\Documents\geekbrains\разработчик\2. Знакомсво с языками программирования\ДЗ\1 лекция\Examples\Examples001_console\obj\Debug\net7.0\ref\Examples001_console.dll
